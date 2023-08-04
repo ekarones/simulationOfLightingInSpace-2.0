@@ -27,6 +27,8 @@ f.Funcion render
  
 # Conclusiones
 a.	El trabajo me permitió superarme y demostrar mis habilidades de creatividad, innovación y solución de problemas.
+
 b.	Pude desarrollar mis habilidades de comunicación, que me permitieron desenvolverme y aumentar mis conocimientos del curso.
+
 c.	El curso me ayudo a fomentar mis habilidades de investigación, aprendizaje autónomo y me permitieron conocer implementaciones de la computación gráfica en el mundo laboral, lo cual me intereso mucho y me motiva a seguir investigando mas sobre el curso. 
 
